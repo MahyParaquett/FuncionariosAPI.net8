@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\MahyaraParaquettCout\\OneDrive - T2M - Test to Market Ltda\\Documentos\\treinamento-T2M\\Api.Net\\FuncionariosAPI\\FuncionariosAPI.net8\\FuncionariosAPI\\FuncionariosAPI\\FuncionariosAPI.csproj": {}
+    "C:\\Users\\MahyaraParaquettCout\\OneDrive - T2M - Test to Market Ltda\\Documentos\\treinamento-T2M\\Api.Net\\FuncionariosAPI\\FuncionariosAPI\\FuncionariosAPI\\FuncionariosAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\MahyaraParaquettCout\\OneDrive - T2M - Test to Market Ltda\\Documentos\\treinamento-T2M\\Api.Net\\FuncionariosAPI\\FuncionariosAPI.net8\\FuncionariosAPI\\FuncionariosAPI\\FuncionariosAPI.csproj": {
+    "C:\\Users\\MahyaraParaquettCout\\OneDrive - T2M - Test to Market Ltda\\Documentos\\treinamento-T2M\\Api.Net\\FuncionariosAPI\\FuncionariosAPI\\FuncionariosAPI\\FuncionariosAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\MahyaraParaquettCout\\OneDrive - T2M - Test to Market Ltda\\Documentos\\treinamento-T2M\\Api.Net\\FuncionariosAPI\\FuncionariosAPI.net8\\FuncionariosAPI\\FuncionariosAPI\\FuncionariosAPI.csproj",
+        "projectUniqueName": "C:\\Users\\MahyaraParaquettCout\\OneDrive - T2M - Test to Market Ltda\\Documentos\\treinamento-T2M\\Api.Net\\FuncionariosAPI\\FuncionariosAPI\\FuncionariosAPI\\FuncionariosAPI.csproj",
         "projectName": "FuncionariosAPI",
-        "projectPath": "C:\\Users\\MahyaraParaquettCout\\OneDrive - T2M - Test to Market Ltda\\Documentos\\treinamento-T2M\\Api.Net\\FuncionariosAPI\\FuncionariosAPI.net8\\FuncionariosAPI\\FuncionariosAPI\\FuncionariosAPI.csproj",
+        "projectPath": "C:\\Users\\MahyaraParaquettCout\\OneDrive - T2M - Test to Market Ltda\\Documentos\\treinamento-T2M\\Api.Net\\FuncionariosAPI\\FuncionariosAPI\\FuncionariosAPI\\FuncionariosAPI.csproj",
         "packagesPath": "C:\\Users\\MahyaraParaquettCout\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\MahyaraParaquettCout\\OneDrive - T2M - Test to Market Ltda\\Documentos\\treinamento-T2M\\Api.Net\\FuncionariosAPI\\FuncionariosAPI.net8\\FuncionariosAPI\\FuncionariosAPI\\obj\\",
+        "outputPath": "C:\\Users\\MahyaraParaquettCout\\OneDrive - T2M - Test to Market Ltda\\Documentos\\treinamento-T2M\\Api.Net\\FuncionariosAPI\\FuncionariosAPI\\FuncionariosAPI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -49,6 +49,26 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.3, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.3, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.3, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.3, )"
+            },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[6.4.0, )"

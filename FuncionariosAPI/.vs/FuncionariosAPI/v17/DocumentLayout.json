@@ -1,7 +1,20 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\MahyaraParaquettCout\\OneDrive - T2M - Test to Market Ltda\\Documentos\\treinamento-T2M\\Api.Net\\FuncionariosAPI\\FuncionariosAPI.net8\\FuncionariosAPI\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\MahyaraParaquettCout\\OneDrive - T2M - Test to Market Ltda\\Documentos\\treinamento-T2M\\Api.Net\\FuncionariosAPI\\FuncionariosAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CCF705AC-3E70-4628-8D4C-3CC7807F1AE8}|FuncionariosAPI\\FuncionariosAPI.csproj|c:\\users\\mahyaraparaquettcout\\onedrive - t2m - test to market ltda\\documentos\\treinamento-t2m\\api.net\\funcionariosapi\\funcionariosapi\\funcionariosapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCF705AC-3E70-4628-8D4C-3CC7807F1AE8}|FuncionariosAPI\\FuncionariosAPI.csproj|solutionrelative:funcionariosapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCF705AC-3E70-4628-8D4C-3CC7807F1AE8}|FuncionariosAPI\\FuncionariosAPI.csproj|c:\\users\\mahyaraparaquettcout\\onedrive - t2m - test to market ltda\\documentos\\treinamento-t2m\\api.net\\funcionariosapi\\funcionariosapi\\funcionariosapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CCF705AC-3E70-4628-8D4C-3CC7807F1AE8}|FuncionariosAPI\\FuncionariosAPI.csproj|solutionrelative:funcionariosapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCF705AC-3E70-4628-8D4C-3CC7807F1AE8}|FuncionariosAPI\\FuncionariosAPI.csproj|c:\\users\\mahyaraparaquettcout\\onedrive - t2m - test to market ltda\\documentos\\treinamento-t2m\\api.net\\funcionariosapi\\funcionariosapi\\funcionariosapi\\funcionariosapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{CCF705AC-3E70-4628-8D4C-3CC7807F1AE8}|FuncionariosAPI\\FuncionariosAPI.csproj|solutionrelative:funcionariosapi\\funcionariosapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +22,50 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\MahyaraParaquettCout\\OneDrive - T2M - Test to Market Ltda\\Documentos\\treinamento-T2M\\Api.Net\\FuncionariosAPI\\FuncionariosAPI\\FuncionariosAPI\\Program.cs",
+              "RelativeDocumentMoniker": "FuncionariosAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\MahyaraParaquettCout\\OneDrive - T2M - Test to Market Ltda\\Documentos\\treinamento-T2M\\Api.Net\\FuncionariosAPI\\FuncionariosAPI\\FuncionariosAPI\\Program.cs",
+              "RelativeToolTip": "FuncionariosAPI\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAwAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T20:56:29.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\MahyaraParaquettCout\\OneDrive - T2M - Test to Market Ltda\\Documentos\\treinamento-T2M\\Api.Net\\FuncionariosAPI\\FuncionariosAPI\\FuncionariosAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "FuncionariosAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\MahyaraParaquettCout\\OneDrive - T2M - Test to Market Ltda\\Documentos\\treinamento-T2M\\Api.Net\\FuncionariosAPI\\FuncionariosAPI\\FuncionariosAPI\\appsettings.json",
+              "RelativeToolTip": "FuncionariosAPI\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-22T20:49:21.152Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FuncionariosAPI",
+              "DocumentMoniker": "C:\\Users\\MahyaraParaquettCout\\OneDrive - T2M - Test to Market Ltda\\Documentos\\treinamento-T2M\\Api.Net\\FuncionariosAPI\\FuncionariosAPI\\FuncionariosAPI\\FuncionariosAPI.csproj",
+              "RelativeDocumentMoniker": "FuncionariosAPI\\FuncionariosAPI.csproj",
+              "ToolTip": "C:\\Users\\MahyaraParaquettCout\\OneDrive - T2M - Test to Market Ltda\\Documentos\\treinamento-T2M\\Api.Net\\FuncionariosAPI\\FuncionariosAPI\\FuncionariosAPI\\FuncionariosAPI.csproj",
+              "RelativeToolTip": "FuncionariosAPI\\FuncionariosAPI.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-22T20:24:40.139Z",
+              "EditorCaption": ""
             }
           ]
         }
